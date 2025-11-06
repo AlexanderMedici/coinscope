@@ -1,5 +1,7 @@
 # CoinScope
 
+[Live Demo](https://coinscope-blond.vercel.app/)
+
 CoinScope is a lightweight crypto dashboard that lists top coins, lets you filter/sort, and explore a coin’s details including price chart, market stats, categories, and official links. Built with React + Vite and powered by the CoinGecko API.
 
 ## Features
