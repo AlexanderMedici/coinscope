@@ -1,6 +1,6 @@
 # CoinScope
 
-[Live Demo](https://coinscope-488c.vercel.app/)
+[LiveLink](https://coinscope-488c.vercel.app)
 
 [![React 19](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=0b1e2b)](https://react.dev/)
 [![Vite 7](https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=fff)](https://vitejs.dev/)
