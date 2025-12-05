@@ -10,7 +10,7 @@
 [![ESLint](https://img.shields.io/badge/ESLint-8-4B32C3?logo=eslint&logoColor=fff)](https://eslint.org/)
 [![CoinGecko API](https://img.shields.io/badge/API-CoinGecko-72D03B?logo=coingecko&logoColor=141414)](https://www.coingecko.com/en/api)
 
-CoinScope is a lightweight crypto dashboard that lists top coins, lets you filter/sort, and explore a coin's details including price chart, market stats, categories, and official links. Built with React + Vite and powered by the CoinGecko API.
+Quick overview: CoinScope is a lightweight crypto dashboard built with React 19 + Vite. It pulls data from the CoinGecko API and uses React Router for navigation. The app lists top coins with search, sorting, and page-size controls, and each coin has a detail page with image, description, market stats, official links, and a 7‑day price chart powered by Chart.js + date-fns. Loading states and basic error handling are included, with Vite’s dev proxy handling CoinGecko CORS in local development.
 
 ## Features
 
