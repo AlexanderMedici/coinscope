@@ -2,7 +2,15 @@
 
 [Live Demo](https://coinscope-488c.vercel.app/)
 
-CoinScope is a lightweight crypto dashboard that lists top coins, lets you filter/sort, and explore a coin’s details including price chart, market stats, categories, and official links. Built with React + Vite and powered by the CoinGecko API.
+[![React 19](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=0b1e2b)](https://react.dev/)
+[![Vite 7](https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=fff)](https://vitejs.dev/)
+[![React Router 7](https://img.shields.io/badge/React_Router-7-CA4245?logo=react-router&logoColor=fff)](https://reactrouter.com/)
+[![Chart.js 4](https://img.shields.io/badge/Chart.js-4-FF6384?logo=chartdotjs&logoColor=fff)](https://www.chartjs.org/)
+[![date-fns](https://img.shields.io/badge/date--fns-3-2D3748?logo=datefns&logoColor=fff)](https://date-fns.org/)
+[![ESLint](https://img.shields.io/badge/ESLint-8-4B32C3?logo=eslint&logoColor=fff)](https://eslint.org/)
+[![CoinGecko API](https://img.shields.io/badge/API-CoinGecko-72D03B?logo=coingecko&logoColor=141414)](https://www.coingecko.com/en/api)
+
+CoinScope is a lightweight crypto dashboard that lists top coins, lets you filter/sort, and explore a coin's details including price chart, market stats, categories, and official links. Built with React + Vite and powered by the CoinGecko API.
 
 ## Features
 
